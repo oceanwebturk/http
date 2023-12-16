@@ -20,11 +20,8 @@
   },
   "autoload": {
    "psr-4":{
-     "OceanWT\\":""
-   },
-   "files":[
-     "framework.php"
-   ]
+     "OceanWT\\Http\\":""
+   }
   },
   "minimum-stability":"dev",
   "prefer-stable":true
