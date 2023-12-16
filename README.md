@@ -1,2 +1,1 @@
-# http
-The OceanWebTurk Http Package
+# OceanWebTurk Http Package
