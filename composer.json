@@ -21,7 +21,8 @@
   "autoload": {
    "psr-4":{
      "OceanWT\\Http\\":""
-   }
+   },
+    "files":["./helpers.php"]
   },
   "minimum-stability":"dev",
   "prefer-stable":true
