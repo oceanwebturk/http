@@ -1,6 +1,6 @@
 {
   "name": "oceanwebturk/http",
-  "description": "The OceanWebTurk Http Package",
+  "description": "OceanWebTurk Http Package",
   "type": "library",
   "keywords":["oceanwebturk","http","framework"],
   "license": "MIT",
