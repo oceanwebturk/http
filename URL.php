@@ -4,7 +4,7 @@ namespace OceanWT\Http;
 
 class URL
 {   
-    use \OceanWT\Traits\Macro;
+    use \OceanWT\Support\Traits\Macro;
     public static function host()
     {
         if(isset($_SERVER['HTTP_X_FORWARDED_HOST'])) {
