@@ -4,7 +4,7 @@ namespace OceanWT\Http;
 
 class Request
 {   
-    use \OceanWT\Traits\Macro;
+    use \OceanWT\Support\Traits\Macro;
     /**
      * @return string
      */
