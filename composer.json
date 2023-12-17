@@ -6,8 +6,7 @@
   "license": "MIT",
   "homepage":"https://github.com/oceanwebturk/http",
   "support":{
-    "source": "https://github.com/oceanwebturk/http",
-    "wiki": "https://github.com/oceanwebturk/http/wiki"
+    "source": "https://github.com/oceanwebturk/http"
   },
   "config":{
     "optimize-autoloader": true,
